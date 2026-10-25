@@ -139,7 +139,7 @@ This was made by **Nongche**. If you're using it, just stick to these:
 
 ---
 
-# Home Sweet Home: Online — NONGCHEAPI (ภาษาไทย)
+# Home Sweet Home: Survive OBT2 — NONGCHEAPI (ภาษาไทย)
 
 นี่คือ backend server ส่วนตัวสำหรับเกม **Home Sweet Home: Survive OBT2** เขียนด้วย **Node.js**, **Express** และ **MongoDB** พูดง่ายๆ คือมันมาแทน server ของทางเกมเอง — login, ข้อมูลผู้เล่น, inventory, ร้านค้า, gacha, immortal mode ทำหมดในนี้ — เพื่อให้เล่นเกมผ่าน server ที่โฮสต์เองได้
 
